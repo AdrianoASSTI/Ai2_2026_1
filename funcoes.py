@@ -1,6 +1,6 @@
 # Definindo uma função
 def funcaoUm(): #1
-    print ('Hello Word') #2
+    print ('Hello World') #2
 
-funcaoUm
+funcaoUm()
 
